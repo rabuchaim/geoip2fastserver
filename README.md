@@ -16,5 +16,5 @@ GeoIP2FastServer is the union between Asyncio + Tornado + GeoIP2Fast. In your lo
   - GET /geoip/1.1.1.1/csv
   - GET /geoip/hc
 - No memory leak. We have been testing for 5 days with all IPs on the internet and memory usage remains the same.
-- There is docker available too. You can create containers with 50Mb of RAM, 100M, 1150M or 550M, depending on the database you want to use. Works with IPv4 and IPv6.
+- There is docker available too. You can create containers with 50Mb of RAM, 100M, 150M or 550M, depending on the database you want to use. Works with IPv4 and IPv6.
 - You can individually disable any check to make it a little faster, it reloads the configurations without restarting, sends it via syslog, you can send logs to Mars by configuring just one line and many other flowers. It just doesn't make coffee and answer the doorbell.
