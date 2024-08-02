@@ -1,8 +1,8 @@
 # GeoIP2Fast Server
 
-![](https://raw.githubusercontent.com/rabuchaim/geoip2fastserver/main/geoip2fast01.png)
+![](https://raw.githubusercontent.com/rabuchaim/geoip2fastserver/main/geoip2fastserver01.png)
 
-![](https://raw.githubusercontent.com/rabuchaim/geoip2fastserver/main/geoip2fast02.png)
+![](https://raw.githubusercontent.com/rabuchaim/geoip2fastserver/main/geoip2fastserver02.png)
 
 ## Features
 - Lightweight and super fast
